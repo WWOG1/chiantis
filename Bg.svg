@@ -1,0 +1,18 @@
+<svg id="Bg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1440" height="940" viewBox="0 0 1440 940">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Mask" width="1440" height="940" fill="#f7f8fb"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#123075"/>
+      <stop offset="1" stop-color="#092056"/>
+    </linearGradient>
+  </defs>
+  <rect id="Mask-2" data-name="Mask" width="1440" height="940" fill="#f7f8fb"/>
+  <g id="Bg-2" data-name="Bg" clip-path="url(#clip-path)">
+    <rect id="Rectangle_4" data-name="Rectangle 4" width="1200" height="1200" rx="100" transform="translate(1259.528 -849) rotate(45)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle" width="1000" height="1000" rx="100" transform="translate(1468.107 -178) rotate(45)" fill="#1a47b0" opacity="0.1"/>
+    <rect id="Rectangle-2" data-name="Rectangle" width="1000" height="1000" rx="100" transform="translate(1259.107 -944.214) rotate(45)" fill="#1a47b0" opacity="0.1"/>
+    <rect id="Rectangle-3" data-name="Rectangle" width="1000" height="1000" rx="100" transform="translate(359.107 -750) rotate(45)" fill="#1a47b0" opacity="0.1"/>
+  </g>
+</svg>
